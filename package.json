@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "express": "^4.17.2",
+    "node-cron": "^3.0.0",
+    "node-schedule": "^2.1.0"
+  },
+  "description": ""
+}
